@@ -1,0 +1,26 @@
+
+  {
+  "owner": "Martin",
+  "creationDate": "2022-01-01",
+  "name": "Test Portfolio",
+  "trades": [
+    {
+      "symbol":"BTC",
+      "tradeDate":"2022-03-22",
+      "broker": "Binance",
+      "asset":"Crypto",
+      "ccy": "USD",
+      "unitPrice": "47000.00",
+      "tradePrice": "4000.00"
+    },
+    {
+      "symbol":"SOL",
+      "tradeDate":"2022-03-22",
+      "broker": "Binance",
+      "asset":"Crypto",
+      "unitPrice": "106.00",
+      "ccy": "USD",
+      "tradePrice": "200.00"
+    }
+  ]
+}

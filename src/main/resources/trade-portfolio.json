@@ -1,0 +1,953 @@
+    {
+      "id": 1,
+      "owner": "Martin",
+      "creationDate": "2021-01-01",
+      "name": "Martin Crypto Portfolio",
+      "trades": [
+          {
+            "symbol": "Solana",
+            "tradeDate": "2022-03-29",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "106",
+            "ccy": "USD",
+            "tradePrice": "2000"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2022-03-29",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "47000",
+            "ccy": "USD",
+            "tradePrice": "4000"
+          },
+          {
+            "symbol": "Tesla",
+            "tradeDate": "2022-03-03",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "878",
+            "ccy": "USD",
+            "tradePrice": "5000"
+          },
+          {
+            "symbol": "Berkshire",
+            "tradeDate": "2022-03-03",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "328.3",
+            "ccy": "USD",
+            "tradePrice": "3000"
+          },
+          {
+            "symbol": "Amazon",
+            "tradeDate": "2022-02-07",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "3063",
+            "ccy": "USD",
+            "tradePrice": "3000"
+          },
+          {
+            "symbol": "Tesla",
+            "tradeDate": "2022-02-07",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "923.28",
+            "ccy": "USD",
+            "tradePrice": "5000"
+          },
+          {
+            "symbol": "Apple",
+            "tradeDate": "2022-02-07",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "172.77",
+            "ccy": "USD",
+            "tradePrice": "20000"
+          },
+          {
+            "symbol": "Terra-luna",
+            "tradeDate": "2022-01-04",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "87",
+            "ccy": "USD",
+            "tradePrice": "1000"
+          },
+          {
+            "symbol": "Cronos",
+            "tradeDate": "2022-01-04",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "0.55",
+            "ccy": "USD",
+            "tradePrice": "367"
+          },
+          {
+            "symbol": "Hector-Dao",
+            "tradeDate": "2021-12-28",
+            "broker": "MetaMask",
+            "asset": "CRYPTO",
+            "unitPrice": "66.1",
+            "ccy": "USD",
+            "tradePrice": "500"
+          },
+          {
+            "symbol": "VG VUG",
+            "tradeDate": "2021-12-28",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "325.6",
+            "ccy": "USD",
+            "tradePrice": "8000"
+          },
+          {
+            "symbol": "VG VUG",
+            "tradeDate": "2021-12-21",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "306",
+            "ccy": "USD",
+            "tradePrice": "2000"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-12-17",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "45750",
+            "ccy": "USD",
+            "tradePrice": "1000"
+          },
+          {
+            "symbol": "Klima-Dao",
+            "tradeDate": "2021-12-13",
+            "broker": "MetaMask",
+            "asset": "CRYPTO",
+            "unitPrice": "468",
+            "ccy": "USD",
+            "tradePrice": "750"
+          },
+          {
+            "symbol": "Solana",
+            "tradeDate": "2021-12-09",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "196.2",
+            "ccy": "USD",
+            "tradePrice": "1000"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-12-05",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "49200",
+            "ccy": "USD",
+            "tradePrice": "3000"
+          },
+          {
+            "symbol": "VHT",
+            "tradeDate": "2021-11-29",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "252.75",
+            "ccy": "USD",
+            "tradePrice": "4800"
+          },
+          {
+            "symbol": "VG VUG",
+            "tradeDate": "2021-11-29",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "319",
+            "ccy": "USD",
+            "tradePrice": "5000"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-11-17",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "60300",
+            "ccy": "USD",
+            "tradePrice": "800"
+          },
+          {
+            "symbol": "VG VUG",
+            "tradeDate": "2021-11-18",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "318.13",
+            "ccy": "USD",
+            "tradePrice": "5000"
+          },
+          {
+            "symbol": "Solana",
+            "tradeDate": "2021-12-07",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "203",
+            "ccy": "USD",
+            "tradePrice": "2000"
+          },
+          {
+            "symbol": "VG VUG",
+            "tradeDate": "2021-12-04",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "326",
+            "ccy": "USD",
+            "tradePrice": "12000"
+          },
+          {
+            "symbol": "XRP",
+            "tradeDate": "2021-11-17",
+            "broker": "Nexo",
+            "asset": "CRYPTO",
+            "unitPrice": "1.06",
+            "ccy": "USD",
+            "tradePrice": "500"
+          },
+          {
+            "symbol": "Polkadot",
+            "tradeDate": "2021-11-16",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "41.9",
+            "ccy": "USD",
+            "tradePrice": "1250"
+          },
+          {
+            "symbol": "Polkadot",
+            "tradeDate": "2021-11-09",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "52.7",
+            "ccy": "USD",
+            "tradePrice": "7005"
+          },
+          {
+            "symbol": "Shiba Inu",
+            "tradeDate": "2021-11-08",
+            "broker": "Phantom",
+            "asset": "CRYPTO",
+            "unitPrice": "0.0000575",
+            "ccy": "USD",
+            "tradePrice": "579"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-11-04",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "429.18",
+            "ccy": "USD",
+            "tradePrice": "5000"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-11-04",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "62200",
+            "ccy": "USD",
+            "tradePrice": "1000"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-11-04",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "62300",
+            "ccy": "USD",
+            "tradePrice": "3000"
+          },
+          {
+            "symbol": "Samo",
+            "tradeDate": "2021-11-01",
+            "broker": "Phantom-Tulip",
+            "asset": "CRYPTO",
+            "unitPrice": "0.1",
+            "ccy": "USD",
+            "tradePrice": "200"
+          },
+          {
+            "symbol": "Samo",
+            "tradeDate": "2021-11-01",
+            "broker": "Phantom",
+            "asset": "CRYPTO",
+            "unitPrice": "0.156",
+            "ccy": "USD",
+            "tradePrice": "400"
+          },
+          {
+            "symbol": "Saitama",
+            "tradeDate": "2021-10-26",
+            "broker": "MetaMask",
+            "asset": "CRYPTO",
+            "unitPrice": "0.00000008388",
+            "ccy": "USD",
+            "tradePrice": "1659.6"
+          },
+          {
+            "symbol": "Saitama",
+            "tradeDate": "2021-10-26",
+            "broker": "MetaMask",
+            "asset": "CRYPTO",
+            "unitPrice": "0.000000078301",
+            "ccy": "USD",
+            "tradePrice": "926.21"
+          },
+          {
+            "symbol": "Samo",
+            "tradeDate": "2021-10-24",
+            "broker": "Phantom-Tulip",
+            "asset": "CRYPTO",
+            "unitPrice": "0.0313",
+            "ccy": "USD",
+            "tradePrice": "200"
+          },
+          {
+            "symbol": "Alibaba",
+            "tradeDate": "2021-10-22",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "173",
+            "ccy": "HKD",
+            "tradePrice": "17300"
+          },
+          {
+            "symbol": "Solana",
+            "tradeDate": "2021-10-16",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "158.1",
+            "ccy": "USD",
+            "tradePrice": "966"
+          },
+          {
+            "symbol": "Solana",
+            "tradeDate": "2021-10-16",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "162.5",
+            "ccy": "USD",
+            "tradePrice": "5000"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-10-12",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "58257.7",
+            "ccy": "USD",
+            "tradePrice": "19257"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-10-12",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "57631",
+            "ccy": "USD",
+            "tradePrice": "2688.51"
+          },
+          {
+            "symbol": "Ethereum",
+            "tradeDate": "2021-10-11",
+            "broker": "Ledger",
+            "asset": "CRYPTO",
+            "unitPrice": "3595",
+            "ccy": "USD",
+            "tradePrice": "3595"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-10-07",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "54805",
+            "ccy": "USD",
+            "tradePrice": "10000"
+          },
+          {
+            "symbol": "Solana",
+            "tradeDate": "2021-10-07",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "158.22",
+            "ccy": "USD",
+            "tradePrice": "2721"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-10-05",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "50400",
+            "ccy": "USD",
+            "tradePrice": "6400"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-09-27",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "44153",
+            "ccy": "USD",
+            "tradePrice": "2500"
+          },
+          {
+            "symbol": "Cardano",
+            "tradeDate": "2021-09-27",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "2.24",
+            "ccy": "USD",
+            "tradePrice": "1000"
+          },
+          {
+            "symbol": "Ethereum",
+            "tradeDate": "2021-09-27",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "3126",
+            "ccy": "USD",
+            "tradePrice": "1500"
+          },
+          {
+            "symbol": "Solana",
+            "tradeDate": "2021-09-27",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "139.8",
+            "ccy": "USD",
+            "tradePrice": "1393"
+          },
+          {
+            "symbol": "Solana",
+            "tradeDate": "2021-09-26",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "134.3",
+            "ccy": "USD",
+            "tradePrice": "1272.13"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-09-14",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "409",
+            "ccy": "USD",
+            "tradePrice": "34765"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-09-14",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "401",
+            "ccy": "USD",
+            "tradePrice": "6423"
+          },
+          {
+            "symbol": "Cardano",
+            "tradeDate": "2021-09-10",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "2.6",
+            "ccy": "USD",
+            "tradePrice": "1289.6"
+          },
+          {
+            "symbol": "Solana",
+            "tradeDate": "2021-09-02",
+            "broker": "Binance",
+            "asset": "CRYPTO",
+            "unitPrice": "115.78",
+            "ccy": "USD",
+            "tradePrice": "4962.3308"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-08-29",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "48385",
+            "ccy": "USD",
+            "tradePrice": "4875.62"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-07-30",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "402.6",
+            "ccy": "USD",
+            "tradePrice": "7500"
+          },
+          {
+            "symbol": "Xiaomi",
+            "tradeDate": "2021-07-09",
+            "broker": "HSBC",
+            "asset": "EQ",
+            "unitPrice": "9.5",
+            "ccy": "HKD",
+            "tradePrice": "28500"
+          },
+          {
+            "symbol": "VUSA S&P 500 UCITS ETF (GBP)",
+            "tradeDate": "2021-07-02",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "59.3",
+            "ccy": "GBP",
+            "tradePrice": "1000"
+          },
+          {
+            "symbol": "VUSA S&P 500 UCITS ETF (GBP)",
+            "tradeDate": "2021-07-02",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "59.3",
+            "ccy": "GBP",
+            "tradePrice": "500"
+          },
+          {
+            "symbol": "VUSA S&P 500 UCITS ETF (GBP)",
+            "tradeDate": "2021-07-02",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "59.3",
+            "ccy": "GBP",
+            "tradePrice": "500"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-06-22",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "31895.2015724137",
+            "ccy": "USD",
+            "tradePrice": "2975.94"
+          },
+          {
+            "symbol": "iShares MSCI China (HKD)",
+            "tradeDate": "2021-06-16",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "33.8",
+            "ccy": "HKD",
+            "tradePrice": "101400"
+          },
+          {
+            "symbol": "Cardano",
+            "tradeDate": "2021-06-06",
+            "broker": "Ledger-AdaLite",
+            "asset": "CRYPTO",
+            "unitPrice": "1.53767999990108",
+            "ccy": "USD",
+            "tradePrice": "36.2868824"
+          },
+          {
+            "symbol": "Chainlink",
+            "tradeDate": "2021-05-27",
+            "broker": "Bitstamp",
+            "asset": "CRYPTO",
+            "unitPrice": "32.669869485275",
+            "ccy": "USD",
+            "tradePrice": "408.49"
+          },
+          {
+            "symbol": "Chainlink",
+            "tradeDate": "2021-05-27",
+            "broker": "Bitstamp",
+            "asset": "CRYPTO",
+            "unitPrice": "32.670034586285",
+            "ccy": "USD",
+            "tradePrice": "1584.38"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-05-25",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "384.94",
+            "ccy": "USD",
+            "tradePrice": "9999.97"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-05-25",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "393.421984420489",
+            "ccy": "USD",
+            "tradePrice": "5000"
+          },
+          {
+            "symbol": "Cardano",
+            "tradeDate": "2021-05-23",
+            "broker": "Ledger-AdaLite",
+            "asset": "CRYPTO",
+            "unitPrice": "0.858059755281139",
+            "ccy": "USD",
+            "tradePrice": "1205.57395617"
+          },
+          {
+            "symbol": "Ethereum",
+            "tradeDate": "2021-05-23",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "1964.81999961522",
+            "ccy": "USD",
+            "tradePrice": "8500"
+          },
+          {
+            "symbol": "Algorand",
+            "tradeDate": "2021-05-20",
+            "broker": "Bitstamp",
+            "asset": "CRYPTO",
+            "unitPrice": "1.085",
+            "ccy": "USD",
+            "tradePrice": "376.495"
+          },
+          {
+            "symbol": "Bitcoin",
+            "tradeDate": "2021-05-20",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "42266.2803841058",
+            "ccy": "USD",
+            "tradePrice": "2985.07"
+          },
+          {
+            "symbol": "Ethereum",
+            "tradeDate": "2021-05-20",
+            "broker": "Ledger",
+            "asset": "CRYPTO",
+            "unitPrice": "2920.02001600496",
+            "ccy": "USD",
+            "tradePrice": "4975.12"
+          },
+          {
+            "symbol": "XRP",
+            "tradeDate": "2021-05-20",
+            "broker": "Nexo",
+            "asset": "CRYPTO",
+            "unitPrice": "1.23168",
+            "ccy": "USD",
+            "tradePrice": "615.84"
+          },
+          {
+            "symbol": "XRP",
+            "tradeDate": "2021-05-20",
+            "broker": "Nexo",
+            "asset": "CRYPTO",
+            "unitPrice": "1.25051386696337",
+            "ccy": "USD",
+            "tradePrice": "995.02"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-05-18",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "382.01",
+            "ccy": "USD",
+            "tradePrice": "4999.98"
+          },
+          {
+            "symbol": "Ethereum",
+            "tradeDate": "2021-05-14",
+            "broker": "Celsius",
+            "asset": "CRYPTO",
+            "unitPrice": "3702.86027441898",
+            "ccy": "USD",
+            "tradePrice": "100"
+          },
+          {
+            "symbol": "Ethereum",
+            "tradeDate": "2021-05-14",
+            "broker": "Ledger",
+            "asset": "CRYPTO",
+            "unitPrice": "4022.12998903567",
+            "ccy": "USD",
+            "tradePrice": "6300"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-04-26",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "384.2",
+            "ccy": "USD",
+            "tradePrice": "12895.98"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-04-16",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "382.5",
+            "ccy": "USD",
+            "tradePrice": "3849.98"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-04-16",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "382.965",
+            "ccy": "USD",
+            "tradePrice": "19148.25"
+          },
+          {
+            "symbol": "VG VOO (S&P500) (USD)",
+            "tradeDate": "2021-04-16",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "383.17",
+            "ccy": "USD",
+            "tradePrice": "383.17"
+          },
+          {
+            "symbol": "Fidelity Index US Fund P Acc (GBP)",
+            "tradeDate": "2021-04-09",
+            "broker": "HL",
+            "asset": "EQ",
+            "unitPrice": "3.00199847326935",
+            "ccy": "GBP",
+            "tradePrice": "700"
+          },
+          {
+            "symbol": "VG LifeStrategy 80 (Acc) (GBP)",
+            "tradeDate": "2021-04-09",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "247.359437999357",
+            "ccy": "GBP",
+            "tradePrice": "2000"
+          },
+          {
+            "symbol": "VG US Equity Index Fund Acc (GBP)",
+            "tradeDate": "2021-04-09",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "674.248213242235",
+            "ccy": "GBP",
+            "tradePrice": "3000"
+          },
+          {
+            "symbol": "VUSA S&P 500 UCITS ETF (GBP)",
+            "tradeDate": "2021-04-09",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "56.7319318181818",
+            "ccy": "GBP",
+            "tradePrice": "4992.41"
+          },
+          {
+            "symbol": "VUSA S&P 500 UCITS ETF (GBP)",
+            "tradeDate": "2021-04-07",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "55.73",
+            "ccy": "GBP",
+            "tradePrice": "279.5"
+          },
+          {
+            "symbol": "VG LifeStrategy 80  (Acc) (EUR)",
+            "tradeDate": "2021-03-31",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "27.03",
+            "ccy": "EUR",
+            "tradePrice": "11433.69"
+          },
+          {
+            "symbol": "VG LifeStrategy 80 (Acc) (GBP)",
+            "tradeDate": "2021-03-30",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "240.300279228924",
+            "ccy": "GBP",
+            "tradePrice": "5000"
+          },
+          {
+            "symbol": "VG US Equity Index Fund Acc (GBP)",
+            "tradeDate": "2021-03-30",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "646.830530401035",
+            "ccy": "GBP",
+            "tradePrice": "5000"
+          },
+          {
+            "symbol": "VG LifeStrategy 80  (Acc) (EUR)",
+            "tradeDate": "2021-03-29",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "26.815",
+            "ccy": "EUR",
+            "tradePrice": "992.16"
+          },
+          {
+            "symbol": "VG LifeStrategy 80  (Acc) (EUR)",
+            "tradeDate": "2021-03-18",
+            "broker": "IB",
+            "asset": "EQ",
+            "unitPrice": "26.75",
+            "ccy": "EUR",
+            "tradePrice": "9977.75"
+          },
+          {
+            "symbol": "VG LifeStrategy 80 (Acc) (GBP)",
+            "tradeDate": "2021-03-17",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "240.690106673855",
+            "ccy": "GBP",
+            "tradePrice": "10000"
+          },
+          {
+            "symbol": "VG LifeStrategy 80 (Acc) (GBP)",
+            "tradeDate": "2021-03-16",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "240.948372795322",
+            "ccy": "GBP",
+            "tradePrice": "1500"
+          },
+          {
+            "symbol": "VG FTSE 100 Index Unit Trust Accumulation (GBP)",
+            "tradeDate": "2021-03-02",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "114.705207616426",
+            "ccy": "GBP",
+            "tradePrice": "100"
+          },
+          {
+            "symbol": "VG LifeStrategy 100 (Acc) (GBP)",
+            "tradeDate": "2021-03-02",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "259.336099585062",
+            "ccy": "GBP",
+            "tradePrice": "100"
+          },
+          {
+            "symbol": "VG LifeStrategy 100 (Acc) (GBP)",
+            "tradeDate": "2021-03-02",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "259.336099585062",
+            "ccy": "GBP",
+            "tradePrice": "100"
+          },
+          {
+            "symbol": "VG LifeStrategy 80 (Acc) (GBP)",
+            "tradeDate": "2021-03-02",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "236.550419032171",
+            "ccy": "GBP",
+            "tradePrice": "700"
+          },
+          {
+            "symbol": "VG US Equity Index Fund Acc (GBP)",
+            "tradeDate": "2021-03-02",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "627.746390458255",
+            "ccy": "GBP",
+            "tradePrice": "200"
+          },
+          {
+            "symbol": "Fidelity Index US Fund P Acc (GBP)",
+            "tradeDate": "2021-02-25",
+            "broker": "HL",
+            "asset": "EQ",
+            "unitPrice": "2.81154658530861",
+            "ccy": "GBP",
+            "tradePrice": "11.98"
+          },
+          {
+            "symbol": "VG FTSE 100 Index Unit Trust Accumulation (GBP)",
+            "tradeDate": "2021-02-16",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "116.610052486185",
+            "ccy": "GBP",
+            "tradePrice": "10000"
+          },
+          {
+            "symbol": "VG LifeStrategy 100 (Acc) (GBP)",
+            "tradeDate": "2021-02-16",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "265.38925969666",
+            "ccy": "GBP",
+            "tradePrice": "2000"
+          },
+          {
+            "symbol": "VG LifeStrategy 100 (Acc) (GBP)",
+            "tradeDate": "2021-02-16",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "265.38925969666",
+            "ccy": "GBP",
+            "tradePrice": "2000"
+          },
+          {
+            "symbol": "VG US Equity Index Fund Acc (GBP)",
+            "tradeDate": "2021-02-16",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "643.068436772082",
+            "ccy": "GBP",
+            "tradePrice": "4500"
+          },
+          {
+            "symbol": "VG US Equity Index Fund Acc (GBP)",
+            "tradeDate": "2021-02-10",
+            "broker": "VG",
+            "asset": "EQ",
+            "unitPrice": "640.93525272077",
+            "ccy": "GBP",
+            "tradePrice": "5000"
+          },
+          {
+            "symbol": "Fidelity Index US Fund P Acc (GBP)",
+            "tradeDate": "2021-02-09",
+            "broker": "HL",
+            "asset": "EQ",
+            "unitPrice": "2.88759794010313",
+            "ccy": "GBP",
+            "tradePrice": "15000"
+          },
+          {
+            "symbol": "Fidelity Index US Fund P Acc (GBP)",
+            "tradeDate": "2021-02-08",
+            "broker": "HL",
+            "asset": "EQ",
+            "unitPrice": "2.88619795610412",
+            "ccy": "GBP",
+            "tradePrice": "10120"
+          },
+          {
+            "symbol": "Fidelity Index US Fund P Acc (GBP)",
+            "tradeDate": "2021-01-25",
+            "broker": "HL",
+            "asset": "EQ",
+            "unitPrice": "2.8495010135157",
+            "ccy": "GBP",
+            "tradePrice": "880"
+          }
+        ]
+    }

@@ -1,0 +1,23 @@
+1) Datasource
+- Integrate with Firestore database
+
+2) Price Engine
+- Crypto - Integrate with Coin Gecko
+- Equities - Integrate with MorningStar
+- Others?
+
+3) Hosting
+- Deploy on GCP as AppEngine? Standard or Flex?
+
+4) UI
+- How are we going to view this?
+- Angular or React?
+
+5) Authorization
+- Use the Google Authentication Server to integrate authentication
+
+6) Authentication
+
+7) Profiles
+- Prevent other users viewing others portfolios
+
